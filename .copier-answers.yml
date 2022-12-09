@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 355a3cc
+_src_path: gh:browniebroke/pypackage-template
+add_me_as_contributor: true
+copyright_year: '2022'
+documentation: true
+email: jimpursey1979@gmail.com
+full_name: Jim Pursey
+github_username: nubicula
+initial_commit: true
+open_source_license: MIT
+package_name: philips_sonicare_ble_toothbrush
+project_name: Philips Sonicare BLE Toothbrush
+project_short_description: Bluetooth library for Philips Sonicare devices
+project_slug: philips-sonicare-ble-toothbrush
+run_poetry_install: false
+setup_github: true
+setup_pre_commit: false
+
